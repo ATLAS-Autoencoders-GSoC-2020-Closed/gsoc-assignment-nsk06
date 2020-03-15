@@ -6,3 +6,5 @@
 - The file ['plot_activation_functions.py'](./plot_activation_functions.py) consits functions for plotting activation graphs.
 - The file ['utils.py'](./utils.py) consists of functions for plotting the graphs.
 - The files ['nn_utils.py'](./nn_utils.py) and ['my_nn_utility.py'](./my_nn_utility.py) consists of various network models.
+#### Results and Plots:
+- The ratio and input plots can be found [here](./images)
